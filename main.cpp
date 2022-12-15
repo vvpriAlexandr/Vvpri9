@@ -5,4 +5,12 @@
 using namespace std;
 
 int main() {
+	int a;
+	int b;
+
+	printf("Vvedite 2 chisla \n");
+
+	cin >> a;
+	cin >> b;
+
 }
