@@ -16,5 +16,6 @@ int main() {
 	printf("%u %u \n", a, b);
 
 	printf("%u \n", a + b);
+	printf("%u \n", a - b);
 	return 0;
 }
