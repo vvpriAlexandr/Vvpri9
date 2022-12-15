@@ -3,7 +3,7 @@
 #include <iostream>
 #include <locale>
 using namespace std;
-
+// программа учебная
 int main() {
 	int a;
 	int b;
@@ -17,5 +17,6 @@ int main() {
 
 	printf("%u \n", a + b);
 	printf("%u \n", a - b);
+	printf("%u \n", a * b);
 	return 0;
 }
