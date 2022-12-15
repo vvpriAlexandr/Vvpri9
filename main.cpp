@@ -17,6 +17,8 @@ int main() {
 
 	printf("%u \n", a + b);
 	printf("%u \n", a - b);
+
 	printf("%u \n", a * b);
+	printf("%u \n", a / b);
 	return 0;
 }
